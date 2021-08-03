@@ -1,0 +1,10 @@
+LocalSocksPort:1080 #
+DnsServer:8.8.8.8 #
+WhiteTcpIP:202.1.1.123 #
+WhiteTcpIP:202.1.1.124 #
+WhiteTcpPort:123 #
+WhiteTcpPort:3389 #
+WhiteUdpIP:202.1.1.123 #
+WhiteUdpIP:202.1.1.124 #
+WhiteUdpPort:456 #
+WhiteProcessId:384
